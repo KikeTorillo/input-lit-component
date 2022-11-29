@@ -1,13 +1,13 @@
 {
   "name": "input-lit-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an input component made with lit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "wds --node-resolve --watch --open"
   },
-  "author": "",
+  "author": "Enrique Arellanes Torillo",
   "license": "MIT",
   "dependencies": {
     "lit": "^2.4.1"
